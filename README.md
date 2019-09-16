@@ -2,5 +2,5 @@
 <h2> Arduino controller communicating with server via TCP socket connection</h2>
 
 
-![](socketTCPconnection.gif)
+![](SocketTCPconnection.gif)
 
